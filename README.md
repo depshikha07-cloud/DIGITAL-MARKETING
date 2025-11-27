@@ -8,4 +8,7 @@ MENTOR: NEELA SANTHOSH
 
 DESCRIPTION:
 This task involves creating a complete 30-day Instagram content calendar for the fashion brand Karshi Readymades, which specialises in sarees. The calendar includes daily post ideas, captions, hashtags, image concepts, and special highlights such as Elegancy Limited Saree, Bestseller features, and New Arrival teasers. The goal of this task is to plan consistent, engaging, and brand-focused content that improves visibility, boosts audience engagement, and strengthens the brand's online presence.
+CALENDER:
 [Karshi_30_Day_Instagram_Calendar.xlsx](https://github.com/user-attachments/files/23785747/Karshi_30_Day_Instagram_Calendar.xlsx)
+PICTURE:
+<img width="1080" height="1350" alt="Image" src="https://github.com/user-attachments/assets/a6b2378b-717d-45eb-a1ac-9ff40c40d788" />
